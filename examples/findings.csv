@@ -1,0 +1,4 @@
+id,asset,cve,cvss,criticality,internet_exposed
+1,payments-prod,CVE-2026-2441,9.8,5,true
+2,gitlab-app,CVE-2021-22175,8.6,4,true
+3,qa-runner,CVE-2020-9999,6.1,2,false

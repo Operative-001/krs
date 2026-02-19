@@ -1,0 +1,12 @@
+{
+  "name": "krs",
+  "version": "0.1.0",
+  "description": "KEV Rapid Response Swarm",
+  "type": "module",
+  "bin": {
+    "krs": "./src/cli.js"
+  },
+  "scripts": {
+    "test": "node --test"
+  }
+}
