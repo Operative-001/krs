@@ -1,12 +1,26 @@
 {
   "name": "krs",
   "version": "0.1.0",
-  "description": "KEV Rapid Response Swarm",
+  "description": "Turn vulnerability scanner noise into prioritized, evidence-backed remediation actions",
   "type": "module",
   "bin": {
     "krs": "./src/cli.js"
   },
   "scripts": {
     "test": "node --test"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Operative-001/krs.git"
+  },
+  "license": "MIT",
+  "author": "Operative-001",
+  "keywords": [
+    "security",
+    "vulnerability-management",
+    "kev",
+    "cve",
+    "devsecops",
+    "automation"
+  ]
 }
